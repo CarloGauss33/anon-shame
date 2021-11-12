@@ -1,7 +1,7 @@
 ## Webserver charcha para molestar anons
 ### En Flask
 
-- Se requiere flask y python3 para usar. 
+- Se requiere flask y python3 para usar.
 
 Para usar en background usar
 
